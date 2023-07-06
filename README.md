@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Nikhil</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
+
 # 💫 About Me:
  🔭 I’m currently working on Vacay'home<br><br>    🌱 I’m currently learning TypeScript, Nextjs and tailwind<br><br>    👨‍💻 All of my projects are available at https://portfolio-nikhil.vercel.app/<br><br>    💬 Ask me about JS, MERN stack, scss<br>
 
